@@ -41,7 +41,7 @@ the Java 20 package from the flake like this below:
 }
 ```
 
-In this default.nix, we reference the Java 20 package
+In this `default.nix`, we reference the Java 20 package
 from the flake and can add any additional attributes
 or packages specific to your Spring Boot project.
 
